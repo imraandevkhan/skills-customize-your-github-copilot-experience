@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-crud-db",
+      "title": "FastAPI CRUD with Database Persistence",
+      "description": "Create a FastAPI app that stores data in SQLite and supports CRUD operations.",
+      "path": "assignments/fastapi-crud-db",
+      "dueDate": "2026-06-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
